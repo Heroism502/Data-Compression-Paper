@@ -1,5 +1,11 @@
 # Data-Compression-Paper
 
+
+* **Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction**,
+  Bilal Kabas, Fuat Arslan, Valiyeh A. Nezhad, Saban Ozturk, Emine U. Saritas, Tolga Çukur
+  [[Paper](https://arxiv.org/abs/2412.09331)]
+  [[GitHub](https://github.com/icon-lab/MambaRoll)] 
+
 autoencoder	Suo C, Liu Z, Mo L, et al. LPD-AE: Latent Space Representation of Large-Scale 3D Point Cloud[J]. IEEE Access, 2020, 8: 108402-108417.		
 
 folding-based	M. Quach, G. Valenzise, and F. Dufaux, “Folding-based compression of point cloud attributes,” in 2020 IEEE International Conference on Image Processing (ICIP), to be published. [Online]. Available: http://arxiv.org/abs/2002.04439		
