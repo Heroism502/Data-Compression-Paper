@@ -1,13 +1,15 @@
 # Data-Compression-Paper
 
-autoencoder	Suo C, Liu Z, Mo L, et al. LPD-AE: Latent Space Representation of Large-Scale 3D Point Cloud[J]. IEEE Access, 2020, 8: 108402-108417.							
-folding-based	M. Quach, G. Valenzise, and F. Dufaux, “Folding-based compression of point cloud attributes,” in 2020 IEEE International Conference on Image Processing (ICIP), to be published. [Online]. Available: http://arxiv.org/abs/2002.04439							
-pointnet	Wei Yan, Yiting Shao, Shan Liu, Thomas H. Li, Zhu Li, and Ge Li. Deep autoencoder-based lossy geometry compression for
-point clouds. CoRR, abs/1905.03691, 2019.							
-pointnet++	Huang T, Liu Y. 3d point cloud geometry compression on deep learning[C]//Proceedings of the 27th ACM International
-Conference on Multimedia. 2019: 890-898.							
-八叉树	Biswas S, Liu J, Wong K, et al. MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models[J]. arXiv preprint
-arXiv:2011.07590, 2020.							
+autoencoder	Suo C, Liu Z, Mo L, et al. LPD-AE: Latent Space Representation of Large-Scale 3D Point Cloud[J]. IEEE Access, 2020, 8: 108402-108417.		
+
+folding-based	M. Quach, G. Valenzise, and F. Dufaux, “Folding-based compression of point cloud attributes,” in 2020 IEEE International Conference on Image Processing (ICIP), to be published. [Online]. Available: http://arxiv.org/abs/2002.04439		
+
+pointnet	Wei Yan, Yiting Shao, Shan Liu, Thomas H. Li, Zhu Li, and Ge Li. Deep autoencoder-based lossy geometry compression for point clouds. CoRR, abs/1905.03691, 2019.
+
+pointnet++	Huang T, Liu Y. 3d point cloud geometry compression on deep learning[C]//Proceedings of the 27th ACM International Conference on Multimedia. 2019: 890-898.		
+
+八叉树	Biswas S, Liu J, Wong K, et al. MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models[J]. arXiv preprint arXiv:2011.07590, 2020.							
+
 八叉树	Lila Huang, Shenlong Wang, Kelvin Wong, Jerry Liu, and Raquel Urtasun. Octsqueeze: Octreestructured entropy model for
 lidar compression. In IEEE Conference on Computer Vision and Pattern
 Recognition, CVPR, 2020.							
