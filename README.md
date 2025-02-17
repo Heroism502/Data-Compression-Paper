@@ -8,10 +8,10 @@
   [[GitHub](https://github.com/icon-lab/MambaRoll)]
 
 Autoencoder
-
 * **LPD-AE: Latent Space Representation of Large-Scale 3D Point Cloud**,
 
-* **Folding-based compression of point cloud attributes** (folding-based)
+folding-based
+* **Folding-based compression of point cloud attributes** 
   [IEEE International Conference on Image Processing (ICIP)]
   [(http://arxiv.org/abs/2002.04439)]	
 
