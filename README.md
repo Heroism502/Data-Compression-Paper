@@ -27,19 +27,31 @@
 [Lila Huang, Shenlong Wang, Kelvin Wong, Jerry Liu, and Raquel Urtasun]
 [In IEEE Conference on Computer Vision and Pattern Recognition]
 
-八叉树	Maurice Quach, Giuseppe Valenzise, and Frederic Dufaux. Learning convolutional transforms for lossy point cloud geometry compression, 2019							
-八叉树	Wen X, Wang X, Hou J, et al. Lossy geometry compression of 3d point cloud data via an adaptive octree-guided
-network[C]//2020 IEEE International Conference on Multimedia and Expo (ICME).
-IEEE, 2020: 1-6.							
-深度熵编码模型	Nguyen D T, Quach M, Valenzise G, et al. Lossless Coding of Point Cloud Geometry using a Deep Generative Model[J].
-IEEE Transactions on Circuits and Systems for Video Technology, 2021.							
-深度熵编码模型	Nguyen D T, Quach M, Valenzise G, et al. Multiscale deep context modeling for lossless point cloud geometry
-compression[J]. arXiv preprint arXiv:2104.09859, 2021.							
-体素网格	A. F. R. Guarda, N. M. M. Rodrigues, and F. Pereira, “Deep learning based point cloud coding: A behavior and performance study,” in 2019 8th European Workshop on Visual Information Processing (EUVIP), pp. 34–39, ISSN: 2164-974X.							
-体素网格	Guarda A F R, Rodrigues N M M, Pereira F. Point cloud coding: Adopting a deep learning-based approach[C]//2019 Picture
-Coding Symposium (PCS). IEEE, 2019: 1-5.							
-体素网格	Jianqiang Wang, Hao Zhu, Z. Ma, Tong Chen, Haojie Liu, and Qiu Shen. Learned point cloud geometry compression.
-ArXiv, abs/1909.12037, 2019.							
+* **Learning convolutional transforms for lossy point cloud geometry compression**	
+[Maurice Quach, Giuseppe Valenzise, and Frederic Dufaux]
+
+* **Lossy geometry compression of 3d point cloud data via an adaptive octree-guided network**
+[Wen X, Wang X, Hou J, et al.]
+[IEEE International Conference on Multimedia and Expo (ICME)]
+
+* 
+* **Lossless Coding of Point Cloud Geometry using a Deep Generative Model**  [Nguyen D T, Quach M, Valenzise G, et al]  [IEEE Transactions on Circuits and Systems for Video Technology, 2021]
+* **Multiscale deep context modeling for lossless point cloud geometry compression** [Nguyen D T, Quach M, Valenzise G, et al][arXiv preprint arXiv:2104.09859]
+* **Deep learning based point cloud coding: A behavior and performance study** [2019 8th European Workshop on Visual Information Processing (EUVIP)] [A. F. R. Guarda, N. M. M. Rodrigues, and F. Pereira]
+* **Point cloud coding: Adopting a deep learning-based approach** [2019 Picture Coding Symposium (PCS)] [Guarda A F R, Rodrigues N M M, Pereira F]
+* **Learned point cloud geometry compression** [ianqiang Wang, Hao Zhu, Z. Ma, Tong Chen, Haojie Liu, and Qiu Shen] [ArXiv, abs/1909.12037, 2019]
+* **     **
+* **     **
+* **     **
+* **     **
+* **     **
+* **     **
+* **     **
+
+							
+											
+						
+													
 体素网格	Jianqiang Wang, Hao Zhu, Zhan Ma, Tong Chen, Haojie Liu, and Qiu Shen, “Learned point cloud geometry compression,” arXiv preprint arXiv:1909.12037, 2019.							
 体素网格	Killea R, Li Y, Bastani S, et al. DeepCompress: Efficient Point Cloud Geometry Compression[J]. arXiv preprint
 arXiv:2106.01504, 2021.							
