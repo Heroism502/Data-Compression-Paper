@@ -7,32 +7,23 @@
   [[Paper](https://arxiv.org/abs/2412.09331)]
   [[GitHub](https://github.com/icon-lab/MambaRoll)]
 
-Autoencoder
 * **LPD-AE: Latent Space Representation of Large-Scale 3D Point Cloud**,
 
-Folding-based
 * **Folding-based compression of point cloud attributes** 
   [IEEE International Conference on Image Processing (ICIP)]
   [(http://arxiv.org/abs/2002.04439)]	
 
-Pointnet
 * **Deep autoencoder-based lossy geometry compression for point clouds** 
 [Wei Yan, Yiting Shao, Shan Liu, Thomas H. Li, Zhu Li, and Ge Li]
-
-
-pointnet++	
+	
 * **3d point cloud geometry compression on deep learning**
 [Proceedings of the 27th ACM International Conference on Multimedia]
-	
 
-八叉树
-MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models[J]
-Biswas S, Liu J, Wong K, et al.
+* **MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models**
+[Biswas S, Liu J, Wong K, et al.]
 [arXiv preprint arXiv:2011.07590, 2020]
-
-
-八叉树	 
-Octsqueeze: Octreestructured entropy model for lidar compression
+	 
+* **Octsqueeze: Octreestructured entropy model for lidar compression**
 [Lila Huang, Shenlong Wang, Kelvin Wong, Jerry Liu, and Raquel Urtasun]
 [In IEEE Conference on Computer Vision and Pattern Recognition]
 
