@@ -2,22 +2,22 @@
 
 # Point Cloud Compression
 
-
 * **Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction**, 
   Bilal Kabas, Fuat Arslan, Valiyeh A. Nezhad, Saban Ozturk, Emine U. Saritas, Tolga Çukur
   [[Paper](https://arxiv.org/abs/2412.09331)]
   [[GitHub](https://github.com/icon-lab/MambaRoll)]
 
 Autoencoder
+
 * **LPD-AE: Latent Space Representation of Large-Scale 3D Point Cloud**,
-  Suo C, Liu Z, Mo L, et al
-  [[Paper]([https://arxiv.org/abs/2412.09331](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9107146))]
 
-  
+* **Folding-based compression of point cloud attributes** (folding-based)
+  IEEE International Conference on Image Processing (ICIP)
+  http://arxiv.org/abs/2002.04439		
 
-folding-based	M. Quach, G. Valenzise, and F. Dufaux, “Folding-based compression of point cloud attributes,” in 2020 IEEE International Conference on Image Processing (ICIP), to be published. [Online]. Available: http://arxiv.org/abs/2002.04439		
+* **Deep autoencoder-based lossy geometry compression for point clouds** (pointnet)
+Wei Yan, Yiting Shao, Shan Liu, Thomas H. Li, Zhu Li, and Ge Li
 
-pointnet	Wei Yan, Yiting Shao, Shan Liu, Thomas H. Li, Zhu Li, and Ge Li. Deep autoencoder-based lossy geometry compression for point clouds. CoRR, abs/1905.03691, 2019.
 
 pointnet++	Huang T, Liu Y. 3d point cloud geometry compression on deep learning[C]//Proceedings of the 27th ACM International Conference on Multimedia. 2019: 890-898.		
 
