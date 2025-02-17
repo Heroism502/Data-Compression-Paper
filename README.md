@@ -13,7 +13,7 @@ Autoencoder
 
 * **Folding-based compression of point cloud attributes** (folding-based)
   [IEEE International Conference on Image Processing (ICIP)]
-  [http://arxiv.org/abs/2002.04439]	
+  [(http://arxiv.org/abs/2002.04439)]	
 
 * **Deep autoencoder-based lossy geometry compression for point clouds** (pointnet)
 * Wei Yan, Yiting Shao, Shan Liu, Thomas H. Li, Zhu Li, and Ge Li
