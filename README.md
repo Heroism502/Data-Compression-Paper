@@ -12,11 +12,11 @@ Autoencoder
 * **LPD-AE: Latent Space Representation of Large-Scale 3D Point Cloud**,
 
 * **Folding-based compression of point cloud attributes** (folding-based)
-  IEEE International Conference on Image Processing (ICIP)
-  http://arxiv.org/abs/2002.04439		
+* IEEE International Conference on Image Processing (ICIP)
+* http://arxiv.org/abs/2002.04439		
 
 * **Deep autoencoder-based lossy geometry compression for point clouds** (pointnet)
-Wei Yan, Yiting Shao, Shan Liu, Thomas H. Li, Zhu Li, and Ge Li
+* Wei Yan, Yiting Shao, Shan Liu, Thomas H. Li, Zhu Li, and Ge Li
 
 
 pointnet++	Huang T, Liu Y. 3d point cloud geometry compression on deep learning[C]//Proceedings of the 27th ACM International Conference on Multimedia. 2019: 890-898.		
