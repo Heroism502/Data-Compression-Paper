@@ -25,11 +25,17 @@ pointnet++
 [Proceedings of the 27th ACM International Conference on Multimedia]
 	
 
-八叉树	Biswas S, Liu J, Wong K, et al. MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models[J]. arXiv preprint arXiv:2011.07590, 2020.							
+八叉树
+MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models[J]
+Biswas S, Liu J, Wong K, et al.
+[arXiv preprint arXiv:2011.07590, 2020]
 
-八叉树	Lila Huang, Shenlong Wang, Kelvin Wong, Jerry Liu, and Raquel Urtasun. Octsqueeze: Octreestructured entropy model for
-lidar compression. In IEEE Conference on Computer Vision and Pattern
-Recognition, CVPR, 2020.							
+
+八叉树	 
+Octsqueeze: Octreestructured entropy model for lidar compression
+[Lila Huang, Shenlong Wang, Kelvin Wong, Jerry Liu, and Raquel Urtasun]
+[In IEEE Conference on Computer Vision and Pattern Recognition]
+
 八叉树	Maurice Quach, Giuseppe Valenzise, and Frederic Dufaux. Learning convolutional transforms for lossy point cloud geometry compression, 2019							
 八叉树	Wen X, Wang X, Hou J, et al. Lossy geometry compression of 3d point cloud data via an adaptive octree-guided
 network[C]//2020 IEEE International Conference on Multimedia and Expo (ICME).
