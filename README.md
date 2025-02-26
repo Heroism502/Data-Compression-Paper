@@ -34,31 +34,56 @@
 [Wen X, Wang X, Hou J, et al.]
 [IEEE International Conference on Multimedia and Expo (ICME)]
 
-* **Lossless Coding of Point Cloud Geometry using a Deep Generative Model**  [Nguyen D T, Quach M, Valenzise G, et al]  [IEEE Transactions on Circuits and Systems for Video Technology, 2021]
+* **Lossless Coding of Point Cloud Geometry using a Deep Generative Model**
+* [Nguyen D T, Quach M, Valenzise G, et al]
+* [IEEE Transactions on Circuits and Systems for Video Technology, 2021]
   
-* **Multiscale deep context modeling for lossless point cloud geometry compression** [Nguyen D T, Quach M, Valenzise G, et al][arXiv preprint arXiv:2104.09859]
+* **Multiscale deep context modeling for lossless point cloud geometry compression**
+* [Nguyen D T, Quach M, Valenzise G, et al]
+* [arXiv preprint arXiv:2104.09859]
   
-* **Deep learning based point cloud coding: A behavior and performance study** [2019 8th European Workshop on Visual Information Processing (EUVIP)] [A. F. R. Guarda, N. M. M. Rodrigues, and F. Pereira]
+* **Deep learning based point cloud coding: A behavior and performance study**
+* [2019 8th European Workshop on Visual Information Processing (EUVIP)]
+* [A. F. R. Guarda, N. M. M. Rodrigues, and F. Pereira]
   
-* **Point cloud coding: Adopting a deep learning-based approach** [2019 Picture Coding Symposium (PCS)] [Guarda A F R, Rodrigues N M M, Pereira F]
+* **Point cloud coding: Adopting a deep learning-based approach**
+* [2019 Picture Coding Symposium (PCS)]
+* [Guarda A F R, Rodrigues N M M, Pereira F]
   
-* **Learned point cloud geometry compression** [ianqiang Wang, Hao Zhu, Z. Ma, Tong Chen, Haojie Liu, and Qiu Shen] [ArXiv, abs/1909.12037, 2019]
+* **Learned point cloud geometry compression**
+* [ianqiang Wang, Hao Zhu, Z. Ma, Tong Chen, Haojie Liu, and Qiu Shen]
+* [ArXiv, abs/1909.12037, 2019]
   
-* **Learned point cloud geometry compression** [Jianqiang Wang, Hao Zhu, Zhan Ma, Tong Chen, Haojie Liu, and Qiu Shen] [arXiv preprint arXiv:1909.12037, 2019]
+* **Learned point cloud geometry compression**
+* [Jianqiang Wang, Hao Zhu, Zhan Ma, Tong Chen, Haojie Liu, and Qiu Shen]
+* [arXiv preprint arXiv:1909.12037, 2019]
 
-* **DeepCompress: Efficient Point Cloud Geometry Compression** [Killea R, Li Y, Bastani S, et al][arXiv:2106.01504, 2021]
+* **DeepCompress: Efficient Point Cloud Geometry Compression**
+* [Killea R, Li Y, Bastani S, et al]
+* [arXiv:2106.01504, 2021]
 
-* **Improved deep point cloud geometry compression** [M. Quach, G. Valenzise, and F. Dufaux] [IEEE MMSP]
+* **Improved deep point cloud geometry compression**
+* [M. Quach, G. Valenzise, and F. Dufaux]
+* [IEEE MMSP]
 
-* **Learning convolutional transforms for lossy point cloud geometry compression** [IEEE ICIP, 2019][M. Quach, G. Valenzise, and F. Dufaux]
+* **Learning convolutional transforms for lossy point cloud geometry compression**
+*  [IEEE ICIP, 2019][M. Quach, G. Valenzise, and F. Dufaux]
 
-* **Multiscale Point Cloud Geometry Compression** [Wang J, Ding D, Li Z, et al] [arXiv:2011.03799, 2020]
+* **Multiscale Point Cloud Geometry Compression**
+* [Wang J, Ding D, Li Z, et al]
+* [arXiv:2011.03799, 2020]
 
-* **Lossy Point Cloud Geometry Compression via End-to-End Learning** [IEEE Transactions on Circuits and Systems for Video Technology, 2021] [Wang J, Zhu H, Liu H, et al]
+* **Lossy Point Cloud Geometry Compression via End-to-End Learning**
+* [IEEE Transactions on Circuits and Systems for Video Technology, 2021]
+* [Wang J, Zhu H, Liu H, et al]
 
-* **Geometry coding for dynamic voxelized point clouds using octrees and multiple contexts** [D. C. Garcia, T. Fonseca, R. U. Ferreira, and R. D. de Queiroz][IEEE Transactions on Image Processing]
+* **Geometry coding for dynamic voxelized point clouds using octrees and multiple contexts**
+* [D. C. Garcia, T. Fonseca, R. U. Ferreira, and R. D. de Queiroz]
+* [IEEE Transactions on Image Processing]
 
-* **VoxelContext-Net: An Octree based Framework for Point Cloud Compression** [Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition][Que Z, Lu G, Xu D]
+* **VoxelContext-Net: An Octree based Framework for Point Cloud Compression**
+* [Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition]
+* [Que Z, Lu G, Xu D]
 								
 # Image Compression
 
