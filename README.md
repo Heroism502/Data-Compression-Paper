@@ -6,7 +6,9 @@ Paper list for 3D Data Data Compression Paper and Applications
 <img src="https://github.com/Heroism502/Data-Compression-Paper/blob/main/Data.png" width="350">
 </p>
 
+#### We appreciate any useful suggestions for improvement of this paper list or survey from peers. Please raise issues or send an email to **liangxie@stu.pku.edu.cn**. Thanks for your cooperation!
 
+**IJCAI--25 Towards 3D Data Compression in the AI Era: Methods and Trends**, 
 
 # Point Cloud Compression
 
