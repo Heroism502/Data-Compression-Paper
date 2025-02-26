@@ -3,8 +3,9 @@
 Paper list for 3D Data Data Compression Paper and Applications 
 
 <p align="center">
-<img src="https://github.com/Event-AHU/Mamba_State_Space_Model_Paper_List/blob/main/mamba_park.jpg" width="250">
+<img src="https://github.com/Heroism502/Data-Compression-Paper/Data.png" width="250">
 </p>
+
 
 
 # Point Cloud Compression
