@@ -296,6 +296,18 @@ Paper list for 3D Data Compression Paper and Applications
 # Mesh Compression
 
 
+* **3D-Polishing for Triangular Mesh Compression of Point Cloud Data**
+  [Jiaqi Gu,Guosheng Yin][KDD 23]
+
+
+* **Video-based dynamic mesh coding**
+  [2021 IEEE International Conference on Image Processing (ICIP)]
+  
+* **Research on Video-based Dynamic Mesh Compression Technology and Proposed Improvements**
+
+*  **Dynamic data reshaping for 3D mesh animation compression**
+
+
 # Image and Video Compression
 
 
