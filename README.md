@@ -3,7 +3,7 @@
 Paper list for 3D Data Data Compression Paper and Applications 
 
 <p align="center">
-<img src="https://github.com/Heroism502/Data-Compression-Paper/Data.png" width="250">
+<img src="https://github.com/Heroism502/Data-Compression-Paper/blob/main/Data.png" width="250">
 </p>
 
 
