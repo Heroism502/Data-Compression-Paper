@@ -87,35 +87,35 @@
 								
 # Image and Video based Point Cloud Compression
 
-* **Point cloud compression for 3d lidar sensor using recurrent neural network with residual blocks **
+* **Point cloud compression for 3d lidar sensor using recurrent neural network with residual blocks**
 [C. Tu, E. Takeuchi, A. Carballo, and K. Takeda][In 2019 International Conference on Robotics and Automation (ICRA)]
 
 
-* **Real-time streaming point cloud compression for 3d lidar sensor using u-net **
+* **Real-time streaming point cloud compression for 3d lidar sensor using u-net**
   [ IEEE Access, 2019][Chenxi Tu, Eijiro Takeuchi, Alexander Carballo, and Kazuya Takeda]
 
-  * **Real-time spatio-temporal lidar point cloud compression ** 
+* **Real-time spatio-temporal lidar point cloud compression** 
     [2020 IEEE/RSJ international conference on intelligent robots and systems (IROS)][Feng Y, Liu S, Zhu Y.]
     
-    * **A Novel Coding Architecture for Multi-Line LiDAR Point Clouds Based on Clustering and Convolutional LSTM Network **
+* **A Novel Coding Architecture for Multi-Line LiDAR Point Clouds Based on Clustering and Convolutional LSTM Network**
     [Sun X, Wang S, Liu M][IEEE Transactions on Intelligent Transportation Systems, 2020]
 
-    * **A Novel Coding Architecture for LiDAR Point Cloud Sequence ** 
+* **A Novel Coding Architecture for LiDAR Point Cloud Sequence** 
     [IEEE Robotics and Automation Letters, 2020][Sun X, Wang S, Wang M, et al.]
 
-* **An Advanced LiDAR Point Cloud Sequence Coding Scheme for Autonomous Driving ** 
+* **An Advanced LiDAR Point Cloud Sequence Coding Scheme for Autonomous Driving** 
 [Sun X, Wang S, Wang M, et al][Proceedings of the 28th ACM International Conference on Multimedia]
 
-* **A novel point cloud compression algorithm based on clustering ** 
+* **A novel point cloud compression algorithm based on clustering** 
 [IEEE Robotics and Automation Letters, 2019][Sun X, Ma H, Sun Y, et al]
 
-* **Compressing continuous point cloud data using image compression methods	**						
+* **Compressing continuous point cloud data using image compression methods**						
  [In 2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC)][Chenxi Tu, E. Takeuchi, C. Miyajima, and K. Takeda]
 					
-* **Real-time streaming point cloud compression for 3d lidar sensor using u-net **					
+* **Real-time streaming point cloud compression for 3d lidar sensor using u-net**					
 [Chenxi Tu, Eijiro Takeuchi, Alexander Carballo, and Kazuya Takeda][IEEE Access, 2019]
 
-* **A Sampling-based 3D Point Cloud Compression Algorithm for Immersive Communication **	
+* **A Sampling-based 3D Point Cloud Compression Algorithm for Immersive Communication**	
 [Yuan H, Zhang D, Wang W, et al.][Mobile Networks and Applications, 2020]					
 						
 						
