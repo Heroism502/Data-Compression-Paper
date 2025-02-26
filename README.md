@@ -35,87 +35,90 @@
 [IEEE International Conference on Multimedia and Expo (ICME)]
 
 * **Lossless Coding of Point Cloud Geometry using a Deep Generative Model**
-* [Nguyen D T, Quach M, Valenzise G, et al]
-* [IEEE Transactions on Circuits and Systems for Video Technology, 2021]
+ [Nguyen D T, Quach M, Valenzise G, et al]
+ [IEEE Transactions on Circuits and Systems for Video Technology, 2021]
   
 * **Multiscale deep context modeling for lossless point cloud geometry compression**
-* [Nguyen D T, Quach M, Valenzise G, et al]
-* [arXiv preprint arXiv:2104.09859]
+ [Nguyen D T, Quach M, Valenzise G, et al]
+ [arXiv preprint arXiv:2104.09859]
   
 * **Deep learning based point cloud coding: A behavior and performance study**
-* [2019 8th European Workshop on Visual Information Processing (EUVIP)]
-* [A. F. R. Guarda, N. M. M. Rodrigues, and F. Pereira]
+ [2019 8th European Workshop on Visual Information Processing (EUVIP)]
+ [A. F. R. Guarda, N. M. M. Rodrigues, and F. Pereira]
   
 * **Point cloud coding: Adopting a deep learning-based approach**
-* [2019 Picture Coding Symposium (PCS)]
-* [Guarda A F R, Rodrigues N M M, Pereira F]
+ [2019 Picture Coding Symposium (PCS)]
+ [Guarda A F R, Rodrigues N M M, Pereira F]
   
 * **Learned point cloud geometry compression**
-* [ianqiang Wang, Hao Zhu, Z. Ma, Tong Chen, Haojie Liu, and Qiu Shen]
-* [ArXiv, abs/1909.12037, 2019]
+ [ianqiang Wang, Hao Zhu, Z. Ma, Tong Chen, Haojie Liu, and Qiu Shen]
+ [ArXiv, abs/1909.12037, 2019]
   
 * **Learned point cloud geometry compression**
-* [Jianqiang Wang, Hao Zhu, Zhan Ma, Tong Chen, Haojie Liu, and Qiu Shen]
-* [arXiv preprint arXiv:1909.12037, 2019]
+ [Jianqiang Wang, Hao Zhu, Zhan Ma, Tong Chen, Haojie Liu, and Qiu Shen]
+ [arXiv preprint arXiv:1909.12037, 2019]
 
 * **DeepCompress: Efficient Point Cloud Geometry Compression**
-* [Killea R, Li Y, Bastani S, et al]
-* [arXiv:2106.01504, 2021]
+ [Killea R, Li Y, Bastani S, et al]
+ [arXiv:2106.01504, 2021]
 
 * **Improved deep point cloud geometry compression**
-* [M. Quach, G. Valenzise, and F. Dufaux]
-* [IEEE MMSP]
+ [M. Quach, G. Valenzise, and F. Dufaux]
+ [IEEE MMSP]
 
 * **Learning convolutional transforms for lossy point cloud geometry compression**
-*  [IEEE ICIP, 2019][M. Quach, G. Valenzise, and F. Dufaux]
+  [IEEE ICIP, 2019][M. Quach, G. Valenzise, and F. Dufaux]
 
 * **Multiscale Point Cloud Geometry Compression**
-* [Wang J, Ding D, Li Z, et al]
-* [arXiv:2011.03799, 2020]
+ [Wang J, Ding D, Li Z, et al]
+ [arXiv:2011.03799, 2020]
 
 * **Lossy Point Cloud Geometry Compression via End-to-End Learning**
-* [IEEE Transactions on Circuits and Systems for Video Technology, 2021]
-* [Wang J, Zhu H, Liu H, et al]
+ [IEEE Transactions on Circuits and Systems for Video Technology, 2021]
+ [Wang J, Zhu H, Liu H, et al]
 
 * **Geometry coding for dynamic voxelized point clouds using octrees and multiple contexts**
-* [D. C. Garcia, T. Fonseca, R. U. Ferreira, and R. D. de Queiroz]
-* [IEEE Transactions on Image Processing]
+ [D. C. Garcia, T. Fonseca, R. U. Ferreira, and R. D. de Queiroz]
+ [IEEE Transactions on Image Processing]
 
 * **VoxelContext-Net: An Octree based Framework for Point Cloud Compression**
-* [Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition]
-* [Que Z, Lu G, Xu D]
+ [Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition]
+ [Que Z, Lu G, Xu D]
 								
-# Image Compression
+# Image and Video based Point Cloud Compression
 
-* * ** ** [][]
-  * * ** ** [][]
-    * * ** ** [][]
-      * * ** ** [][]
-        * * ** ** [][]
-          * * ** ** [][]
-            * 							
-									
-图像视频压缩	C. Tu, E. Takeuchi, A. Carballo, and K. Takeda. Point cloud compression for 3d lidar sensor using recurrent neural
-network with residual blocks. In 2019 International Conference on Robotics
-and Automation (ICRA), 2019.							
-图像视频压缩	Chenxi Tu, Eijiro Takeuchi, Alexander Carballo, and Kazuya Takeda. Real-time streaming point cloud compression for
-3d lidar sensor using u-net. IEEE Access, 2019.							
-图像视频压缩	Feng Y, Liu S, Zhu Y. Real-time spatio-temporal lidar point cloud compression[C]//2020 IEEE/RSJ international conference on intelligent robots and systems (IROS). IEEE, 2020: 10766-10773.							
-图像视频压缩	Sun X, Wang S, Liu M. A Novel Coding Architecture for Multi-Line LiDAR Point Clouds Based on Clustering and
-Convolutional LSTM Network[J]. IEEE Transactions on Intelligent
-Transportation Systems, 2020.							
-图像视频压缩	Sun X, Wang S, Wang M, et al. A Novel Coding Architecture for LiDAR Point Cloud Sequence[J]. IEEE Robotics and
-Automation Letters, 2020, 5(4): 5637-5644.							
-图像视频压缩	Sun X, Wang S, Wang M, et al. An Advanced LiDAR Point Cloud Sequence Coding Scheme for Autonomous
-Driving[C]//Proceedings of the 28th ACM International Conference on
-Multimedia. 2020: 2793-2801.							
-图像视频压缩	Sun X, Ma H, Sun Y, et al. A novel point cloud compression algorithm based on clustering[J]. IEEE Robotics and Automation Letters, 2019, 4(2): 2132-2139.							
-图像视频压缩	Chenxi Tu, E. Takeuchi, C. Miyajima, and K. Takeda. Compressing continuous point cloud data using image compression methods. In 2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC), 2016							
-下采样	Chenxi Tu, Eijiro Takeuchi, Alexander Carballo, and Kazuya Takeda. Real-time streaming point cloud compression for 3d lidar 
-sensor using u-net. IEEE Access, 2019							
-下采样	Yuan H, Zhang D, Wang W, et al. A Sampling-based 3D
-Point Cloud Compression Algorithm for Immersive Communication[J]. Mobile
-Networks and Applications, 2020, 25(5): 1863-1872.							
+* **Point cloud compression for 3d lidar sensor using recurrent neural network with residual blocks **
+[C. Tu, E. Takeuchi, A. Carballo, and K. Takeda][In 2019 International Conference on Robotics and Automation (ICRA)]
+
+
+* **Real-time streaming point cloud compression for 3d lidar sensor using u-net **
+  [ IEEE Access, 2019][Chenxi Tu, Eijiro Takeuchi, Alexander Carballo, and Kazuya Takeda]
+
+  * **Real-time spatio-temporal lidar point cloud compression ** 
+    [2020 IEEE/RSJ international conference on intelligent robots and systems (IROS)][Feng Y, Liu S, Zhu Y.]
+    
+    * **A Novel Coding Architecture for Multi-Line LiDAR Point Clouds Based on Clustering and Convolutional LSTM Network **
+    [Sun X, Wang S, Liu M][IEEE Transactions on Intelligent Transportation Systems, 2020]
+
+    * **A Novel Coding Architecture for LiDAR Point Cloud Sequence ** 
+    [IEEE Robotics and Automation Letters, 2020][Sun X, Wang S, Wang M, et al.]
+
+* **An Advanced LiDAR Point Cloud Sequence Coding Scheme for Autonomous Driving ** 
+[Sun X, Wang S, Wang M, et al][Proceedings of the 28th ACM International Conference on Multimedia]
+
+* **A novel point cloud compression algorithm based on clustering ** 
+[IEEE Robotics and Automation Letters, 2019][Sun X, Ma H, Sun Y, et al]
+
+* **Compressing continuous point cloud data using image compression methods	**						
+ [In 2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC)][Chenxi Tu, E. Takeuchi, C. Miyajima, and K. Takeda]
+					
+* **Real-time streaming point cloud compression for 3d lidar sensor using u-net **					
+[Chenxi Tu, Eijiro Takeuchi, Alexander Carballo, and Kazuya Takeda][IEEE Access, 2019]
+
+* **A Sampling-based 3D Point Cloud Compression Algorithm for Immersive Communication **	
+[Yuan H, Zhang D, Wang W, et al.][Mobile Networks and Applications, 2020]					
+						
+						
 
 
 
