@@ -144,8 +144,6 @@ Paper list for 3D Data Compression Paper and Applications
 
      * **LPD-AE: Latent Space Representation of Large-Scale 3D Point Cloud**
    [Suo C, Liu Z, Mo L][IEEE Access]
-
-
     
  * **Folding-based compression of point cloud attributes**				
 [M. Quach, G. Valenzise, and F. Dufaux]
@@ -295,169 +293,267 @@ Paper list for 3D Data Compression Paper and Applications
 [https://github.com/NJUVISION/SparsePCGC]		
 
 
+# Mesh Compression
+
+
+# Image and Video Compression
 
 
 
-图像压缩
-
-Context-adaptive entropy model for end-to-end optimized image compression	Jooyoung Lee, Seunghyun Cho & Seung-Kwon Beack（Broadcasting Media Research Laboratory）		https://github.com/JooyoungLeeETRI/CA_Entropy_Model
-Learning accurate entropy model with global reference for image compression	Yichen Qian, Zhiyu Tan, Xiuyu Sun∗
-, Ming Lin, Dongyang Li, Zhenhong Sun, Hao Li, Rong Jin（Alibaba Group）		https://github.com/damo-cv/imgcomp-reference
-Learning Context-Based Non-local Entropy Modeling for Image Compression	Mu Li, Kai Zhang, Wangmeng Zuo, Radu Timofte, and David Zhang, 		https://github.com/limuhit/Nonlocal-CC
-Efficient and Effective Context-Based Convolutional Entropy Modeling for Image Compression	Mu Li, Kede Ma, Jane You, David Zhang, and Wangmeng Zuo		
-https://github.com/limuhit/CCN.
-Coarse-to-Fine Hyper-Prior Modeling for Learned Image Compression	Yueyu Hu, Wenhan Yang, Jiaying Liu∗(Wangxuan Institute of Computer Technology, Peking University)		https://github.com/huzi96/Coarse2Fine-PyTorch
-End-to-End Learnt Image Compression via Non-Local Attention Optimization and Improved Context Modeling	Tong Chen, Haojie Liu, Zhan Ma, Qiu Shen, Xun Cao and Yao Wang		https://github.com/NJUVISION/NIC
-Learning Content-Weighted Deep Image Compression	Mu Li, Wangmeng Zuo, Shuhang Gu, Jane You, and David Zhang		https://github.com/limuhit/CWIC
-Variable Rate Deep Image Compression with Modulated Autoencoder	Fei Yang, Luis Herranz, Joost van de Weijer, Jos A. Iglesias Guitin, Antonio M. Lpez, Mikhail G. Mozerov		https://github.com/FireFYF/modulatedautoencoder
-A Task-Driven Scene-Aware LiDAR Point Cloud Coding Framework for Autonomous Vehicles	Xuebin Sun; Miaohui Wang; Jingxin Du; Yuxiang Sun; Shing Shin Cheng; Wuyuan Xie		
-RIDDLE: Lidar Data Compression With Range Image Deep Delta Encoding	Xuanyu Zhou, Charles R. Qi, Yin Zhou, Dragomir Anguelov		
-R-PCC: A Baseline for Range Image-based Point Cloud Compression	Sukai Wang, Jianhao Jiao, Peide Cai, and Ming Liu		https://github.com/StevenWang30/R-PCC
-Point Cloud Compression: Impact on Object Detection in Outdoor Contexts	L Garrote, J Perdiz, LA da Silva Cruz, UJ Nunes 		
-Pixel-level texture segmentation based av1 video compression	Di Chen(Purdue University)		
-Task-aware quantization network for jpeg image compression	Jinyoung Choi(Seoul National University)		
-Image coding for machines: an end-to-end learned approach	Nam Le(Tampere University)		
-Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics	Lingyu Duan(PKU)		
-End-to-End optimized image compression for machines, a study	Lahiru D. Chamain(InterDigital - AI Lab)		
-Towards End-to-End Image Compression and Analysis with Transformers	Yuanchao Bai(HIT & PCL)		
-TOWARDS IMAGE UNDERSTANDING FROM DEEP COMPRESSION WITHOUT DECODING	Robert Torfason(ETH)		
-Semantics-to-Signal Scalable Image Compression with Learned Revertible Representations	Kang Liu(University
-of Science and Technology of China)		
-Preprocessing Enhanced Image Compression for Machine Vision	Guo Lu（Beijing Institute of Technology）		
-Image Coding for Machines with Omnipotent Feature Learning	Ruoyu Feng 		
+* **Context-adaptive entropy model for end-to-end optimized image compression**
+[Jooyoung Lee, Seunghyun Cho & Seung-Kwon Beack（Broadcasting Media Research Laboratory）]
+[https://github.com/JooyoungLeeETRI/CA_Entropy_Model]
 
 
 
+* **Learning accurate entropy model with global reference for image compression**
+[Yichen Qian, Zhiyu Tan, Xiuyu Sun∗, Ming Lin, Dongyang Li, Zhenhong Sun, Hao Li, Rong Jin（Alibaba Group）]
+[https://github.com/damo-cv/imgcomp-reference]
 
-Variable Rate Image Compression with Recurrent Neural Networks	George Toderici（google）		https://github.com/Erincrying/VARIABLE-RATE-IMAGE-COMPRESSION-Reappearance	
-End-to-end optimized image compression	Johannes Ballé（NYU）		https://github.com/InterDigitalInc/CompressAI	https://github.com/Erincrying/OPTIMIZED-IMAGE-COMPRESSION-tf2.5
-Variational image compression with a scale hyperprior	Johannes Ballé（google）		https://github.com/InterDigitalInc/CompressAI	
-Joint autoregressive and hierarchical priors for learned image compression	David Minnen（google）		https://github.com/InterDigitalInc/CompressAI	https://github.com/mengab/Joint-Autoregressive-and-Hierarchical-Priors-for-Learned-Image-Compression
-Learning Convolutional Networks for Content-Weighted Image Compression	Mu Li（The Hong Kong Polytechnic University）		https://github.com/adityassrana/Content-Weighted-Image-Compression	
-Learned Image Compression with Discretized Gaussian Mixture Likelihoods and Attention Modules	Zhengxue Cheng（Waseda University）		https://github.com/InterDigitalInc/CompressAI	https://github.com/ZhengxueCheng/Learned-Image-Compression-with-GMM-and-Attention
-End-to-End Optimized Versatile Image Compression With Wavelet-Like Transform	Haichuan Ma（University of Science and Technology of China）			https://github.com/mahaichuan/Versatile-Image-Compression
-Slimmable Compressive Autoencoders for Practical Neural Image Compression	Fei Yang（Northwestern Polytechnical University）			https://github.com/FireFYF/SlimCAE
-Checkerboard Context Model for Efficient Learned Image Compression	Dailan He（SenseTime Research）		https://github.com/JiangWeibeta/Checkerboard-Context-Model-for-Efficient-Learned-Image-Compression	
-Entroformer: A Transformer-based Entropy Model for Learned Image Compression	Yichen Qian（Alibaba Group）		https://github.com/damo-cv/entroformer	
-Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression	A Burakhan Koyuncu（Technische Universität München）			
-The Devil Is in the Details: Window-based Attention for Image Compression	Renjie Zou（National Laboratory of Pattern Recognition (NLPR) of
-Institute of Automation, Chinese Academy of Sciences (CASIA)）		https://github.com/Googolxx/STF	
-ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding	Dailan He（SenseTime Research）			
-Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression	Xiaosu Zhu（University of Electronic Science and Technology of China）			https://github.com/xiaosu-zhu/McQuic
-Deep Homography for Efficient Stereo Image Compression	Xin Deng（Beihang University）		https://github.com/ywz978020607/HESIC	
-ProxIQA: A Proxy Approach to Perceptual Optimization of Learned Image Compression	Li-Heng Chen（The University of Texas）			
-Towards End-to-End Image Compression and Analysis with Transformers	Yuanchao Bai（Harbin Institute of Technology / Peng Cheng Laboratory）		https://github.com/BYchao100/Towards-Image-Compression-and-Analysis-with-Transformers	
-DVC: An End-to-end Deep Video Compression Framework	Guo Lu（Shanghai Jiao Tong University）		https://github.com/binzzheng/DVC-PyTorch	https://github.com/GuoLusjtu/DVC
-Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement	Ren Yang（Eidgenössische Technische Hochschule Zürich）			https://github.com/RenYang-home/HLVC
-Deep Contextual Video Compression	Jiahao Li（Microsoft Research Asia）		https://github.com/microsoft/DCVC	
-Hybrid Spatial-Temporal Entropy Modelling for Neural Video Compression	Jiahao Li（Microsoft Research Asia）		https://github.com/microsoft/DCVC	
-End-to-End Rate-Distortion Optimized Learned Hierarchical Bi-Directional Video Compression	M. Akın Yılmaz（Koç University）		https://github.com/makinyilmaz/LHBDC/	
-Neural Reference Synthesis for Inter Frame Coding	Dandan Ding（Hangzhou Normal University）			https://github.com/IVC-Projects/NRS
-Video compression dataset and benchmark of learning-based video-quality metrics	Anastasia Antsiferova (ISP RAS Research Center for Trusted Artificial Intelligence)		https://github.com/msu-video-group/msu_vqm_compression_benchmark	
-Enhancing HDR Video Compression through CNN-based Effective Bit Depth Adaptation	Chen Feng(Visual Information Laboratory, University of Bristol, Bristol, UK, BS1 5DD)			https://github.com/fan-aaron-zhang/mf-mfrnet
-CANF-VC: Conditional Augmented Normalizing Flows for Video Compression	Yung-Han Ho( Department of Computer Science, National Yang Ming Chiao Tung University)		https://github.com/nycu-mapl/canf-vc	
-VCT: A Video Compression Transformer	Fabian Mentzer(Google Research)			https://github.com/google-research/google-research/tree/master/vct
-Dilated convolutional neural network-based deep reference picture generation for video compression	Haoyue Tian(Nanjing University of Aeronautics and Astronautics, China)		https://github.com/luka0714/OurProject	
-Perceptual Learned Video Compression with Recurrent Conditional GAN	Ren Yang（Eidgenössische Technische Hochschule Zürich）		https://github.com/renyang-home/plvc	https://github.com/RenYang-home/OpenDVC
-RCLC: ROI-based joint conventional and learning video compression	Trinh Man Hoang(Graduate School of Science and Engineering, Hosei University Tokyo, Japan)		https://github.com/HoangTrinh/ROI_Online_Meeting_Codec	
-Deep Learning in Latent Space for Video Prediction and Compression	Bowen Liu(University of Michigan, Ann Arbor)		https://github.com/BowenL0218/Video_Compression	
-Improved CNN-based Learning of Interpolation Filters for Low-Complexity Inter Prediction in Video Coding	Luka Murn(BBC)			https://github.com/bbc/cnn-fractional-motion-compensation
-Spatiotemporal Entropy Model is All You Need for Learned Video Compression	Zhenhong Sun(Alibaba Group, China)			https://github.com/tinyvision/IPCodec
-Pruning Filters for Efficient Convnets	Hao Li (University of Maryland)		https://github.com/tyui592/Pruning_filters_for_efficient_convnets	
-ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression	Jian-Hao Luo (lambda, Nanjing University)		https://github.com/Roll920/ThiNet	
-Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks	Yang He (Southern University of Science and Technology
- & University of Technology Sydney)		https://github.com/he-y/soft-filter-pruning	
-Data-Driven Sparse Structure Selection for Deep Neural Networks	Zehao Huang (TuSimple)		https://github.com/Pokemon-Huang/sparse-structure-selection-PyTorch	https://github.com/mengrang/Sparse-Structure-Selection-tensorflow
-Towards Optimal Structured CNN Pruning via Generative Adversarial Learning	Shaohui Lin (Xiamen University)		https://github.com/anonymouscvpr1983/GAL	
-HRank: Filter Pruning using High-Rank Feature Map	Mingbao Lin (Xiamen University)		https://github.com/lmbxmu/HRank	
-Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression	Yawei Li (ETH)		https://github.com/ofsoundof/group_sparsity	
-Channel Pruning via Automatic Structure Search	Mingbao Lin (Xiamen University)		https://github.com/lmbxmu/ABCPruner	
-Manifold Regularized Dynamic Network Pruning	Yehui Tang (Peking University)		https://github.com/yehuitang/Pruning	
-Discrimination-aware Channel Pruning for Deep Neural Networks	Zhuangwei Zhuang (South China University of Technology)		https://github.com/SCUT-AILab/DCP	
-Real-Time Adaptive Image Compression	Oren Rippel (WaveOne)		https://github.com/sftwre/ImageCompressionNN	
-Context-adaptive Entropy Model for End-to-end Optimized Image Compression	Jooyoung Lee (Electronics and Telecommunications Research Institute)		https://github.com/JooyoungLeeETRI/CA_Entropy_Model	
-Enhanced Separable Convolution Network for Lightweight JPEG Compression Artifacts Reduction	Zhengxin Chen ( Sichuan University)		https://github.com/zhengxinChenee/ESCNet	
-Pruning by Training: A Novel Deep Neural Network Compression Framework for Image Processing	Guanzhong Tian (Zhejiang University)			
-Image Compression Architecture with Built-in Lightweight Model	Tien-Ying Kuo (National Taipei University of Technology)			
-Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference	Benoit Jacob(Google)		https://github.com/666DZY666/micronet	
-Bi-Real Net: Enhancing the Performance of 1-bit CNNs With Improved Representational Capability and Advanced Training Algorithm	Zechun Liu（Hong Kong University of Science and Technology）		https://github.com/liuzechun/Bi-Real-net	
-BiPointNet: Binary Neural Network for Point Clouds	Haotong Qin(Beihang University)		https://github.com/htqin/BiPointNet	
-Learned Step Size Quantization	Steven K. Esser(IBM)		https://github.com/hustzxd/LSQuantization	
-LSQ+: Improving low-bit quantization through learnable offsets and better initialization	Yash Bhalgat(Qualcomm Technologies)		https://github.com/DeadAt0m/LSQFakeQuantize-PyTorch	
-PACT: Parameterized Clipping Activation for Quantized Neural Networks	Jungwook Choi(IBM)			
-FPX-NIC: An FPGA-Accelerated 4K Ultra-high-definition Neural Video Coding System	Chuanmin Jia(Peking University)			
-RepVGG: Making VGG-style ConvNets Great Again	Xiaohan Ding(Tsinghua University)		https://github.com/DingXiaoH/RepVGG	
-ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Convolution Blocks	Xiaohan Ding(Tsinghua University)		https://github.com/DingXiaoH/ACNet	
-RepMLP: Re-parameterizing Convolutions into Fully-connected Layers for Image Recognition	Xiaohan Ding(Tsinghua University)		https://github.com/DingXiaoH/RepMLP	
-Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs	Xiaohan Ding(Tsinghua University)		https://github.com/DingXiaoH/RepLKNet-pytorch	https://github.com/shkarupa-alex/tfreplknet
-FPX-NIC: An FPGA-Accelerated 4K Ultra-high-definition Neural Video Coding System	Chuanmin Jia(Peking University)			
-NeRV: Neural Representations for Videos	Hao Chen(University of Maryland)		https://github.com/haochen-rye/NeRV	
-Generalized Octave Convolutions for Learned Multi-Frequency Image Compression	Mohammad Akbari(Simon Fraser University)			
-End-to-end Learned Image Compression with Fixed Point Weight Quantization	Heming Sun(Waseda University)			
-Get The Best of the Three Worlds: Real-Time Neural Image Compression in a Non-GPU Environment	Zekun Zheng(National University of Defense Technology)			
-iVPF: Numerical Invertible Volume Preserving Flow for Efficient Lossless Compression	Shifeng Zhang (Huawei Noah’s Ark Lab)			
-DeepN-JPEG: A Deep Neural Network Favorable JPEG-based Image Compression Framework	Zihao Liu (Flordia International University)			https://github.com/zihaoliu123/DeepN-Jpeg
-Asymmetric Gained Deep Image Compression With Continuous Rate Adaptation	Ze Cui (Huawei Technologies)			https://github.com/fab-jul/imgcomp-cvpr
-Conditional Probability Models for Deep Image Compression	Mu Li (Hong Kong Polytechnic University)		https://github.com/limuhit/ImageCompression	
-RDONet: Rate-Distortion Optimized Learned Image Compression with Variable Depth	Fabian Brand (FAU)			
-Extreme Image Coding via Multiscale Autoencoders with Generative Adversarial Optimization	Chao Huang (Nanjing University)			
-Generative Adversarial Networks for Extreme Learned Image Compression	Eirikur Agustsson (ETHZ)			https://github.com/Justin-Tan/generative-compression
-An End-to-End Compression Framework Based on Convolutional Neural Networks	Wen Tao (Harbin Institute of Technology)		https://github.com/compression-framework/compression_framwork_for_tesing	
-Lossy Image Compression with Compressive Autoencoders	Lucas Theis (Twitter)		https://github.com/alexandru-dinu/cae	
-Convolutional Neural Networks for Noniterative Reconstruction of Compressively Sensed Images	Suhas Lohit			
-Discernible Image Compression	Zhaohui Yang(PKU & Huawei)			
-END-TO-END LEARNING OF COMPRESSIBLE FEATURES	Saurabh Singh(Google Research)			
-IMAGE PRE-TRANSFORMATION FOR RECOGNITION-AWARE IMAGE COMPRESSION	Satoshi Suzuki(NTT Corporation)			
-Semantics-to-Signal Scalable Image Compression with Learned Revertible Representations	Kang Liu(University
-of Science and Technology of China)			
-SCALABLE FACIAL IMAGE COMPRESSION WITH DEEP FEATURE RECONSTRUCTION	Shurun Wang (PKU)			
-Image compression with encoder-decoder matched semantic segmentation. 	Hoang T,M. 			
-DSSLIC: deep semantic segmentation-based layered image compression	Akbari, M. (Simon Fraser University)			
-Semantic Structured Image Coding Framework
-for Multiple Intelligent Applications	Simeng Sun(University
-of Science and Technology of China)			
-Towards End-to-End Image Compression and Analysis with Transformers	Yuanchao Bai(HIT & PCL)			
-TOWARDS IMAGE UNDERSTANDING FROM DEEP COMPRESSION WITHOUT DECODING	Robert Torfason(ETH)			
-ProxIQA: A Proxy Approach to Perceptual Optimization of Learned Image Compression	Li-Heng Chen（The University of Texas）			
-PERCEPTUAL QUALITY STUDY ON DEEP LEARNING BASED IMAGE COMPRESSION	Zhengxue Cheng（Waseda University）			
-End-to-End Optimized ROI Image Compression	Chunlei Cai（SJTU）			
-Content-aware Deep Perceptual Image Compression	Yiping Duan（Tsinghua University）			
-Perceptual Friendly Variable Rate Image Compression	Yixin Gao（USTC）			
-M-LVC: Multiple Frames Prediction for Learned Video Compression   	Jianping Lin (USTC)		https://github.com/JianpingLin/M-LVC_CVPR2020	
-Learning for Video Compression with Recurrent Auto-Encoder and Recurrent Probability Model  	Ren Yang (ETH)		https://github.com/RenYang-home/RLVC	
-Flexible-Rate Learned Hierarchical Bi-Directional Video Compression With Motion Refinement and Frame-Level Bit Allocation  	Eren Cetin (KUIS AI)		https://github.com/KUIS-AI-Tekalp-Research-Group/video-compression/tree/master/Flex-Rate-Hier-Bidir-Video-Compression	
-Neural Residual Flow Fields for Efficient Video Representations 	Daniel Rho (Sungkyunkwan University)		https://github.com/daniel03c1/eff_video_representation	
-NeRV: Neural Representations for Videos  	Hao Chen (University of Maryland)		https://github.com/haochen-rye/nerv	
-Learned Video Compression with Residual Prediction and Loop Filter   	Chao Liu (Fudan University)		https://github.com/chaoliu18/rplvc	
-DVC-P: Deep Video Compression with Perceptual Optimizations	Saiping Zhang (Xidian University)			https://github.com/SaipingZhang/DVC_P
-SKFlow: Learning Optical Flow with Super Kernels  	Shangkun Sun (PKU)		https://github.com/littlespray/SKFlow	
-Learning to Estimate Hidden Motions with Global Motion Aggregation  	Shihao Jiang (Austrialia National University)		https://github.com/zacjiang/GMA	
-RAFT: Recurrent All Pairs Field Transforms for Optical Flow	Zachary Teed (Princeton)		https://github.com/princeton-vl/RAFT	
-Integer Discrete Flows and Lossless Compression	Emiel Hoogeboom(University of Amsterdam)		https://github.com/jornpeters/integer_discrete_flows	
-Idf++: Analyzing and improving integer discrete flows for lossless compression	Rianne van den Berg(Google)			
-Compression with Flows via Local Bits-Back Coding	Jonathan Ho(UC Berkeley)		https://github.com/hojonathanho/localbitsback	
-HiLLoC: Lossless Image Compression with Hierarchical Latent Variable Models	James Townsend(University College London)			https://github.com/hilloc-submission/hilloc
-Practical full resolution learned lossless image compression	Fabian Mentzer(ETH)		https://github.com/fab-jul/L3C-PyTorch	
-Variable rate deep image compression with a conditional autoencoder	Yoojin Choi(Samsung Semiconductor Inc.)			
-Improved lossy image compression with priming and spatially adaptive bit rates for recurrent network	Nick Johnston(Google)			
-Ensemble learning-based rate-distortion optimization for end-to-end image compression	Yefei Wang(USTC)			
-Recursive bits-back coding for lossless compression with hierarchical latent variables	Friso Kingma(UC Berkeley)		https://github.com/fhkingma/bitswap	
-iFlow: Numerically Invertible Flows for Efficient Lossless Compression via a Uniform Coder	Shifeng Zhang(Huawei Noah’s Ark Lab)			
-Point Transformer	Hengshuang Zhao(University of Oxford && The University of Hong Kong)		https://github.com/qq456cvb/Point-Transformers	
-Diffusion Probabilistic Models for 3D Point Cloud Generation	Shitong Luo(PKU)		https://github.com/luost26/diffusion-point-cloud	
-JointPruning: Pruning Networks Along Multiple Dimensions for Efficient Point Cloud Processing 	Jinyang Guo(University of Sydney)			
-3D-Pruning: A
-Model Compression Framework for Efficient 3D Action Recognition	Jinyang Guo(University of Sydney)			
-SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models	SongHan(MIT)		https://github.com/mit-han-lab/smoothquant	
-PointAcc: Efficient Point Cloud Accelerator	SongHan(MIT)			
-Efficient and Robust LiDAR-Based End-to-End Navigation	SongHan(MIT)			
-Searching Efficient 3D Architectures with Sparse Point-Voxel Convolution	SongHan(MIT)		https://github.com/mit-han-lab/spvnas	
-Point Voxel CNN for Efficient 3D Deep Learning	SongHan(MIT)		https://github.com/mit-han-lab/pvcnn	
-TorchSparse: Efficient Point Cloud Inference Engine 	SongHan(MIT)		https://github.com/mit-han-lab/torchsparse	
-Deep Stereo Image Compression via Bi-directional Coding	Jianjun Lei (TJU)			
-DSIC: Deep Stereo Image Compression	Jerry Liu（Uber）			
-SASIC: Stereo Image Compression with Latent Shifts and Stereo Attention	Matthias Wodlinger（TU Wien）		https://github.com/mwoedlinger/sasic	
-Learning based Multi-modality Image and Video Compression	Guo Lu（Beijing Institute of Technology）			
-Learning-Based Practical Light Field Image Compression Using A Disparity-Aware Model	Mohana Singh（Indian Institute of Technology Mandi）			
-Deep Homography for Efficient Stereo Image Compression	Xin Deng（Beihang University）		https://github.com/ywz978020607/HESIC	
+* **Learning Context-Based Non-local Entropy Modeling for Image Compression**
+[Mu Li, Kai Zhang, Wangmeng Zuo, Radu Timofte, and David Zhang,]
+[https://github.com/limuhit/Nonlocal-CC]
+
+* **Efficient and Effective Context-Based Convolutional Entropy Modeling for Image Compression**
+[Mu Li, Kede Ma, Jane You, David Zhang, and Wangmeng Zuo]	
+[https://github.com/limuhit/CCN.]
+
+* **Coarse-to-Fine Hyper-Prior Modeling for Learned Image Compression**
+[Yueyu Hu, Wenhan Yang, Jiaying Liu∗(Wangxuan Institute of Computer Technology, Peking University)]
+[https://github.com/huzi96/Coarse2Fine-PyTorch]
+
+* **End-to-End Learnt Image Compression via Non-Local Attention Optimization and Improved Context Modeling**
+[Tong Chen, Haojie Liu, Zhan Ma, Qiu Shen, Xun Cao and Yao Wang]
+[https://github.com/NJUVISION/NIC]
+
+* **Learning Content-Weighted Deep Image Compression**
+[Mu Li, Wangmeng Zuo, Shuhang Gu, Jane You, and David Zhang]
+[https://github.com/limuhit/CWIC]
+
+* **Variable Rate Deep Image Compression with Modulated Autoencoder**
+[Fei Yang, Luis Herranz, Joost van de Weijer, Jos A. Iglesias Guitin, Antonio M. Lpez, Mikhail G. Mozerov]
+[https://github.com/FireFYF/modulatedautoencoder]
+
+* **A Task-Driven Scene-Aware LiDAR Point Cloud Coding Framework for Autonomous Vehicles**
+[Xuebin Sun; Miaohui Wang; Jingxin Du; Yuxiang Sun; Shing Shin Cheng; Wuyuan Xie	]
+
+* **RIDDLE: Lidar Data Compression With Range Image Deep Delta Encoding**
+[Xuanyu Zhou, Charles R. Qi, Yin Zhou, Dragomir Anguelov]	
+
+* **R-PCC: A Baseline for Range Image-based Point Cloud Compression**
+[Sukai Wang, Jianhao Jiao, Peide Cai, and Ming Liu]
+[https://github.com/StevenWang30/R-PCC]
+
+* **Point Cloud Compression: Impact on Object Detection in Outdoor Contexts**
+[L Garrote, J Perdiz, LA da Silva Cruz, UJ Nunes] 
+
+* **Pixel-level texture segmentation based av1 video compression**
+[Di Chen(Purdue University)]	
+
+* **Task-aware quantization network for jpeg image compression**
+[Jinyoung Choi(Seoul National University)]	
+
+* **Image coding for machines: an end-to-end learned approach**
+[Nam Le(Tampere University)]
+
+* **Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics**
+[Lingyu Duan(PKU)]
+
+* **End-to-End optimized image compression for machines a study**
+[Lahiru D. Chamain(InterDigital - AI Lab)]
+
+* **Towards End-to-End Image Compression and Analysis with Transformers**
+[Yuanchao Bai(HIT & PCL)	]
+
+* **TOWARDS IMAGE UNDERSTANDING FROM DEEP COMPRESSION WITHOUT DECODING**
+[Robert Torfason(ETH)]
+
+* **Semantics-to-Signal Scalable Image Compression with Learned Revertible Representations**
+[Kang Liu(University of Science and Technology of China)]	
+
+* **Preprocessing Enhanced Image Compression for Machine Vision**
+[Guo Lu（Beijing Institute of Technology）]
+
+* **Image Coding for Machines with Omnipotent Feature Learning**
+[Ruoyu Feng 	]	
+
+
+
+
+* **Variable Rate Image Compression with Recurrent Neural Networks**
+[ George Toderici（google）]
+[https://github.com/Erincrying/VARIABLE-RATE-IMAGE-COMPRESSION-Reappearance	]
+
+* **End-to-end optimized image compression**
+[Johannes Ballé（NYU）]
+[https://github.com/InterDigitalInc/CompressAI	https://github.com/Erincrying/OPTIMIZED-IMAGE-COMPRESSION-tf2.5]
+
+* **Variational image compression with a scale hyperprior**
+[Johannes Ballé（google）]
+[https://github.com/InterDigitalInc/CompressAI	]
+
+* **Joint autoregressive and hierarchical priors for learned image compression**
+[David Minnen（google）]
+[https://github.com/InterDigitalInc/CompressAI]
+[https://github.com/mengab/Joint-Autoregressive-and-Hierarchical-Priors-for-Learned-Image-Compression]
+
+
+* **Learning Convolutional Networks for Content-Weighted Image Compression**
+[Mu Li（The Hong Kong Polytechnic University）]
+[https://github.com/adityassrana/Content-Weighted-Image-Compression	]
+
+* **Learned Image Compression with Discretized Gaussian Mixture Likelihoods and Attention Modules**
+[Zhengxue Cheng（Waseda University）]
+[https://github.com/InterDigitalInc/CompressAI	https://github.com/ZhengxueCheng/Learned-Image-Compression-with-GMM-and-Attention]
+
+* **End-to-End Optimized Versatile Image Compression With Wavelet-Like Transform**
+[Haichuan Ma（University of Science and Technology of China）]
+[https://github.com/mahaichuan/Versatile-Image-Compression]
+
+* **Slimmable Compressive Autoencoders for Practical Neural Image Compression**
+[Fei Yang（Northwestern Polytechnical University）]
+[https://github.com/FireFYF/SlimCAE]
+
+* **Checkerboard Context Model for Efficient Learned Image Compression**
+[Dailan He（SenseTime Research）]
+[https://github.com/JiangWeibeta/Checkerboard-Context-Model-for-Efficient-Learned-Image-Compression	]
+
+* **Entroformer: A Transformer-based Entropy Model for Learned Image Compression**
+[Yichen Qian（Alibaba Group）]
+[https://github.com/damo-cv/entroformer	]
+
+* **Contextformer: A Transformer with Spatio-Channel Attention for Context Modeling in Learned Image Compression**
+[A Burakhan Koyuncu（Technische Universität München）]
+
+* **The Devil Is in the Details: Window-based Attention for Image Compression**
+[Renjie Zou（National Laboratory of Pattern Recognition (NLPR) of Institute of Automation, Chinese Academy of Sciences (CASIA)）]
+[https://github.com/Googolxx/STF	]
+
+* **ELIC: Efficient Learned Image Compression with Unevenly Grouped Space-Channel Contextual Adaptive Coding**
+[Dailan He（SenseTime Research）]	
+
+* **Unified Multivariate Gaussian Mixture for Efficient Neural Image Compression**
+[Xiaosu Zhu（University of Electronic Science and Technology of China）]
+[https://github.com/xiaosu-zhu/McQuic]
+
+* **Deep Homography for Efficient Stereo Image Compression**
+[Xin Deng（Beihang University）]
+[https://github.com/ywz978020607/HESIC	]
+
+* **ProxIQA: A Proxy Approach to Perceptual Optimization of Learned Image Compression**
+[Li-Heng Chen（The University of Texas）]	
+
+* **Towards End-to-End Image Compression and Analysis with Transformers**
+[Yuanchao Bai（Harbin Institute of Technology / Peng Cheng Laboratory）]
+[https://github.com/BYchao100/Towards-Image-Compression-and-Analysis-with-Transformers	]
+
+
+* **DVC: An End-to-end Deep Video Compression Framework**
+[Guo Lu（Shanghai Jiao Tong University）]
+[https://github.com/binzzheng/DVC-PyTorch]
+[https://github.com/GuoLusjtu/DVC]
+
+* **Learning for Video Compression with Hierarchical Quality and Recurrent Enhancement**
+[Ren Yang（Eidgenössische Technische Hochschule Zürich）]
+[https://github.com/RenYang-home/HLVC]
+
+* **Deep Contextual Video Compression**
+  [Jiahao Li（Microsoft Research Asia）]
+[https://github.com/microsoft/DCVC]	
+
+* **Hybrid Spatial-Temporal Entropy Modelling for Neural Video Compression**
+[Jiahao Li（Microsoft Research Asia）]
+[https://github.com/microsoft/DCVC]	
+
+* **End-to-End Rate-Distortion Optimized Learned Hierarchical Bi-Directional Video Compression**
+[M. Akın Yılmaz（Koç University）]
+[https://github.com/makinyilmaz/LHBDC/	]
+
+* **Neural Reference Synthesis for Inter Frame Coding**
+[Dandan Ding（Hangzhou Normal University）]
+[https://github.com/IVC-Projects/NRS]
+
+* **Video compression dataset and benchmark of learning-based video-quality metrics**
+[Anastasia Antsiferova (ISP RAS Research Center for Trusted Artificial Intelligence)]
+[https://github.com/msu-video-group/msu_vqm_compression_benchmark	]
+
+* **Enhancing HDR Video Compression through CNN-based Effective Bit Depth Adaptation**
+[Chen Feng(Visual Information Laboratory, University of Bristol, Bristol, UK, BS1 5DD)]
+[https://github.com/fan-aaron-zhang/mf-mfrnet]
+
+* **CANF-VC: Conditional Augmented Normalizing Flows for Video Compression**
+[Yung-Han Ho( Department of Computer Science, National Yang Ming Chiao Tung University)]
+[https://github.com/nycu-mapl/canf-vc	]
+
+* **VCT: A Video Compression Transformer**
+[Fabian Mentzer(Google Research)]
+[https://github.com/google-research/google-research/tree/master/vct]
+
+* **Dilated convolutional neural network-based deep reference picture generation for video compression**
+[Haoyue Tian(Nanjing University of Aeronautics and Astronautics, China)]
+[https://github.com/luka0714/OurProject	]
+
+* **Perceptual Learned Video Compression with Recurrent Conditional GAN**
+[Ren Yang（Eidgenössische Technische Hochschule Zürich）]
+[https://github.com/renyang-home/plvc]
+[https://github.com/RenYang-home/OpenDVC]
+
+* **RCLC: ROI-based joint conventional and learning video compression**
+[Trinh Man Hoang(Graduate School of Science and Engineering, Hosei University Tokyo, Japan)]
+[https://github.com/HoangTrinh/ROI_Online_Meeting_Codec	]
+
+* **Deep Learning in Latent Space for Video Prediction and Compression**
+[Bowen Liu(University of Michigan, Ann Arbor)]
+[https://github.com/BowenL0218/Video_Compression]	
+
+* **Improved CNN-based Learning of Interpolation Filters for Low-Complexity Inter Prediction in Video Coding**
+[Luka Murn(BBC)
+[https://github.com/bbc/cnn-fractional-motion-compensation
+
+* **Spatiotemporal Entropy Model is All You Need for Learned Video Compression**
+[Zhenhong Sun(Alibaba Group, China)
+[ https://github.com/tinyvision/IPCodec]
+
+* **Pruning Filters for Efficient Convnets**
+[Hao Li (University of Maryland)]
+[https://github.com/tyui592/Pruning_filters_for_efficient_convnets	]
+
+* **ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression**
+[Jian-Hao Luo (lambda, Nanjing University)]
+[https://github.com/Roll920/ThiNet	]
+
+* **Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks**
+[Yang He (Southern University of Science and Technology & University of Technology Sydney)]
+[https://github.com/he-y/soft-filter-pruning	]
+
+ 
+* **Data-Driven Sparse Structure Selection for Deep Neural Networks**
+[Zehao Huang (TuSimple)]
+[https://github.com/Pokemon-Huang/sparse-structure-selection-PyTorch]
+[https://github.com/mengrang/Sparse-Structure-Selection-tensorflow]
+
+* **Towards Optimal Structured CNN Pruning via Generative Adversarial Learning**
+[Shaohui Lin (Xiamen University)]
+[https://github.com/anonymouscvpr1983/GAL	]
+
+* **HRank: Filter Pruning using High-Rank Feature Map**
+[Mingbao Lin (Xiamen University)]
+[https://github.com/lmbxmu/HRank]	
+
+* **Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression**
+[Yawei Li (ETH)]
+[https://github.com/ofsoundof/group_sparsity	]
+
+* **Channel Pruning via Automatic Structure Search**
+[Mingbao Lin (Xiamen University)]
+[https://github.com/lmbxmu/ABCPruner	]
+
+* **Manifold Regularized Dynamic Network Pruning**
+[Yehui Tang (Peking University)]
+[https://github.com/yehuitang/Pruning	]
+
+* **Discrimination-aware Channel Pruning for Deep Neural Networks**
+[Zhuangwei Zhuang (South China University of Technology)]
+[https://github.com/SCUT-AILab/DCP]
+
 
