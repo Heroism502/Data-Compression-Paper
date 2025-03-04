@@ -13,13 +13,13 @@ Paper list for 3D Data Compression Paper and Applications
 # Point Cloud Compression
 
 * **Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction**,
-[[Paper]https://arxiv.org/pdf/2408.00599]
-[[GitHub]https://github.com/mic-rud/Learned-Compression-of-Point-Cloud-Geometry-and-Attributes]
+[[Paper](https://arxiv.org/pdf/2408.00599)]
+[[GitHub](https://github.com/mic-rud/Learned-Compression-of-Point-Cloud-Geometry-and-Attributes)]
 
 * **Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction**,
 [Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence]
-[[GitHub]https://github.com/I2-Multimedia-Lab/Pointsoup]
-[[Paper]https://arxiv.org/abs/2404.13550]
+[[GitHub](https://github.com/I2-Multimedia-Lab/Pointsoup)]
+[[Paper](https://arxiv.org/abs/2404.13550)]
 
 * **Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction**, 
   Bilal Kabas, Fuat Arslan, Valiyeh A. Nezhad, Saban Ozturk, Emine U. Saritas, Tolga Çukur
