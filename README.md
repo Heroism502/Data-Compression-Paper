@@ -43,7 +43,7 @@ Paper list for 3D Data Compression Paper and Applications
 * **MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models**
 [Biswas S, Liu J, Wong K, et al.]
 [Advances in Neural Information Processing Systems]
-[arXiv preprint arXiv:2011.07590, 2020]
+[[Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/fc152e73692bc3c934d248f639d9e963-Paper.pdf)]
 
   
 * **Octsqueeze: Octreestructured entropy model for lidar compression**
@@ -64,7 +64,7 @@ Paper list for 3D Data Compression Paper and Applications
   
 * **Multiscale deep context modeling for lossless point cloud geometry compression**
  [Nguyen D T, Quach M, Valenzise G, et al]
- [[Paper](arXiv preprint arXiv:2104.09859]
+ [[Paper](https://arxiv.org/pdf/2104.09859)]
   
 * **Deep learning based point cloud coding: A behavior and performance study**
  [2019 8th European Workshop on Visual Information Processing (EUVIP)]
@@ -76,16 +76,12 @@ Paper list for 3D Data Compression Paper and Applications
   
 * **Learned point cloud geometry compression**
  [ianqiang Wang, Hao Zhu, Z. Ma, Tong Chen, Haojie Liu, and Qiu Shen]
- [ArXiv, abs/1909.12037, 2019]
-  
-* **Learned point cloud geometry compression**
- [Jianqiang Wang, Hao Zhu, Zhan Ma, Tong Chen, Haojie Liu, and Qiu Shen]
- [arXiv preprint arXiv:1909.12037, 2019]
+ [[Paper](https://arxiv.org/pdf/1909.12037)]
  
 
 * **DeepCompress: Efficient Point Cloud Geometry Compression**
  [Killea R, Li Y, Bastani S, et al]
- [arXiv:2106.01504, 2021]
+ [[Paper](https://arxiv.org/pdf/2106.01504)]
 
 * **Improved deep point cloud geometry compression**
  [M. Quach, G. Valenzise, and F. Dufaux]
@@ -94,13 +90,11 @@ Paper list for 3D Data Compression Paper and Applications
 * **Learning convolutional transforms for lossy point cloud geometry compression**
   [IEEE ICIP, 2019][M. Quach, G. Valenzise, and F. Dufaux]
 
-* **Multiscale Point Cloud Geometry Compression**
- [Wang J, Ding D, Li Z, et al]
- [arXiv:2011.03799, 2020]
 
 * **Lossy Point Cloud Geometry Compression via End-to-End Learning**
  [IEEE Transactions on Circuits and Systems for Video Technology, 2021]
  [Wang J, Zhu H, Liu H, et al]
+[[Github](https://github.com/yydlmzyz/PCGCv1)]	
 
 * **Geometry coding for dynamic voxelized point clouds using octrees and multiple contexts**
  [D. C. Garcia, T. Fonseca, R. U. Ferreira, and R. D. de Queiroz]
@@ -113,52 +107,67 @@ Paper list for 3D Data Compression Paper and Applications
 # Image and Video based Point Cloud Compression
 
 * **Point cloud compression for 3d lidar sensor using recurrent neural network with residual blocks**
-[C. Tu, E. Takeuchi, A. Carballo, and K. Takeda][In 2019 International Conference on Robotics and Automation (ICRA)]
+[C. Tu, E. Takeuchi, A. Carballo, and K. Takeda]
+[In 2019 International Conference on Robotics and Automation (ICRA)]
 
 
 * **Real-time streaming point cloud compression for 3d lidar sensor using u-net**
-  [ IEEE Access, 2019][Chenxi Tu, Eijiro Takeuchi, Alexander Carballo, and Kazuya Takeda]
+  [ IEEE Access, 2019]
+  [Chenxi Tu, Eijiro Takeuchi, Alexander Carballo, and Kazuya Takeda]
 
 * **Real-time spatio-temporal lidar point cloud compression** 
-    [2020 IEEE/RSJ international conference on intelligent robots and systems (IROS)][Feng Y, Liu S, Zhu Y.]
+  [2020 IEEE/RSJ international conference on intelligent robots and systems (IROS)]
+  [Feng Y, Liu S, Zhu Y.]
     
 * **A Novel Coding Architecture for Multi-Line LiDAR Point Clouds Based on Clustering and Convolutional LSTM Network**
-    [Sun X, Wang S, Liu M][IEEE Transactions on Intelligent Transportation Systems, 2020]
+  [Sun X, Wang S, Liu M]
+  [IEEE Transactions on Intelligent Transportation Systems, 2020]
 
 * **A Novel Coding Architecture for LiDAR Point Cloud Sequence** 
-    [IEEE Robotics and Automation Letters, 2020][Sun X, Wang S, Wang M, et al.]
+  [IEEE Robotics and Automation Letters, 2020]
+  [Sun X, Wang S, Wang M, et al.]
 
 * **An Advanced LiDAR Point Cloud Sequence Coding Scheme for Autonomous Driving** 
-[Sun X, Wang S, Wang M, et al][Proceedings of the 28th ACM International Conference on Multimedia]
+[Sun X, Wang S, Wang M, et al]
+[Proceedings of the 28th ACM International Conference on Multimedia]
 
 * **A novel point cloud compression algorithm based on clustering** 
-[IEEE Robotics and Automation Letters, 2019][Sun X, Ma H, Sun Y, et al]
+[IEEE Robotics and Automation Letters, 2019]
+[Sun X, Ma H, Sun Y, et al]
 
 * **Compressing continuous point cloud data using image compression methods**						
- [In 2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC)][Chenxi Tu, E. Takeuchi, C. Miyajima, and K. Takeda]
+ [In 2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC)]
+[Chenxi Tu, E. Takeuchi, C. Miyajima, and K. Takeda]
 					
 * **Real-time streaming point cloud compression for 3d lidar sensor using u-net**					
-[Chenxi Tu, Eijiro Takeuchi, Alexander Carballo, and Kazuya Takeda][IEEE Access, 2019]
+[Chenxi Tu, Eijiro Takeuchi, Alexander Carballo, and Kazuya Takeda]
+[IEEE Access, 2019]
 
 * **A Sampling-based 3D Point Cloud Compression Algorithm for Immersive Communication**	
-[Yuan H, Zhang D, Wang W, et al.][Mobile Networks and Applications, 2020]					
+[Yuan H, Zhang D, Wang W, et al.]
+[Mobile Networks and Applications, 2020]					
 						
 
 # Point Cloud Compression for Machine Vision
 * **A Task-Driven Scene-Aware LiDAR Point Cloud Coding Framework for Autonomous Vehicles**
-  [Xuebin Sun; Miaohui Wang; Jingxin Du; Yuxiang Sun; Shing Shin Cheng; Wuyuan Xie][TII 2022] 
+  [Xuebin Sun; Miaohui Wang; Jingxin Du; Yuxiang Sun; Shing Shin Cheng; Wuyuan Xie]
+  [TII 2022] 
 
 * **RIDDLE: Lidar Data Compression With Range Image Deep Delta Encoding**
-[Xuanyu Zhou, Charles R. Qi, Yin Zhou, Dragomir Anguelov][CVPR2022]
+[Xuanyu Zhou, Charles R. Qi, Yin Zhou, Dragomir Anguelov]
+[CVPR2022]
 
-  * **R-PCC: A Baseline for Range Image-based Point Cloud Compression**
-[Sukai Wang, Jianhao Jiao, Peide Cai, and Ming Liu][ICRA 2022]			
+* **R-PCC: A Baseline for Range Image-based Point Cloud Compression**
+[Sukai Wang, Jianhao Jiao, Peide Cai, and Ming Liu]
+[ICRA 2022]			
 
  * **Point Cloud Compression: Impact on Object Detection in Outdoor Contexts**
-[L Garrote, J Perdiz, LA da Silva Cruz, UJ Nunes][sensor 2022]
+[L Garrote, J Perdiz, LA da Silva Cruz, UJ Nunes]
+[sensor 2022]
 
-     * **LPD-AE: Latent Space Representation of Large-Scale 3D Point Cloud**
-   [Suo C, Liu Z, Mo L][IEEE Access]
+* **LPD-AE: Latent Space Representation of Large-Scale 3D Point Cloud**
+[Suo C, Liu Z, Mo L]
+[IEEE Access]
     
  * **Folding-based compression of point cloud attributes**				
 [M. Quach, G. Valenzise, and F. Dufaux]
@@ -212,7 +221,7 @@ Paper list for 3D Data Compression Paper and Applications
 
 * **DeepCompress: Efficient Point Cloud Geometry Compression**
 [Killea R, Li Y, Bastani S]
-[arXiv2021]			
+[[Paper](https://arxiv.org/pdf/2106.01504)]			
 
 * **Improved deep point cloud geometry compression**
 [M. Quach, G. Valenzise, and F. Dufaux]
@@ -226,13 +235,9 @@ Paper list for 3D Data Compression Paper and Applications
 
 * **Multiscale Point Cloud Geometry Compression**
 [Wang J, Ding D, Li Z]
-[arXiv2020.]
+ [[Paper](https://arxiv.org/pdf/2011.03799)]
 [[Github](https://github.com/NJUVISION/PCGCv2)]		
-
-* **Lossy Point Cloud Geometry Compression via End-to-End Learning**
-[Wang J, Zhu H, Liu H]
-[TCSVT2021]
-[[Github](https://github.com/yydlmzyz/PCGCv1)]		
+	
 
 * **Geometry coding for dynamic voxelized point clouds using octrees and multiple contexts**
 [D. C. Garcia, T. Fonseca, R. U. Ferreira, and R. D. de Queiroz]
@@ -256,7 +261,7 @@ Paper list for 3D Data Compression Paper and Applications
 * **Real-time spatio-temporal lidar point cloud compression**
 [Feng Y, Liu S, Zhu Y]
 [IROS2020]
-[https://github.com/ChenxiTU/Point-cloud-compression-by-RNN]		
+[[Github](https://github.com/ChenxiTU/Point-cloud-compression-by-RNN)]		
 
 * **A Novel Coding Architecture for Multi-Line LiDAR Point Clouds Based on Clustering and Convolutional LSTM Network**
 [Sun X, Wang S, Liu M]
@@ -321,11 +326,10 @@ Paper list for 3D Data Compression Paper and Applications
 * **Research on Video-based Dynamic Mesh Compression Technology and Proposed Improvements**
 
 *  **Dynamic data reshaping for 3D mesh animation compression**
+[Multimedia Tools and Applications, 2022]
 
 
 # Image and Video Compression
-
-
 
 * **Context-adaptive entropy model for end-to-end optimized image compression**
 [Jooyoung Lee, Seunghyun Cho & Seung-Kwon Beack（Broadcasting Media Research Laboratory）]
@@ -402,9 +406,7 @@ Paper list for 3D Data Compression Paper and Applications
 [Guo Lu（Beijing Institute of Technology）]
 
 * **Image Coding for Machines with Omnipotent Feature Learning**
-[Ruoyu Feng 	]	
-
-
+[Ruoyu Feng]	
 
 
 * **Variable Rate Image Compression with Recurrent Neural Networks**
