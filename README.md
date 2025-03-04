@@ -129,16 +129,16 @@ Paper list for 3D Data Compression Paper and Applications
 
 
 * **Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression**
-  [[Paper](https://arxiv.org/abs/2404.06936)]
+[[Paper](https://arxiv.org/abs/2404.06936)]
  [[Github](https://github.com/I2-Multimedia-Lab/PoLoPCAC)]
 
   
-  * ** Progressive Coding for Deep Learning based Point Cloud Attribute Compression**
-   [[Paper](https://dl.acm.org/doi/abs/10.1145/3652212.3652217)]
+* ** Progressive Coding for Deep Learning based Point Cloud Attribute Compression**
+[[Paper](https://dl.acm.org/doi/abs/10.1145/3652212.3652217)]
 
   
-  * **Multi-Space Point Geometry Compression with Progressive Relation-Aware Transformer**
-   [[Paper](https://ieeexplore.ieee.org/abstract/document/10487884)]
+* **Multi-Space Point Geometry Compression with Progressive Relation-Aware Transformer**
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10487884)]
 
 
 * **Efficient Point Cloud Attribute Compression Using Rich Parallelizable Context Model**
