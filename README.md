@@ -103,7 +103,74 @@ Paper list for 3D Data Compression Paper and Applications
 * **VoxelContext-Net: An Octree based Framework for Point Cloud Compression**
  [Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition]
  [Que Z, Lu G, Xu D]
-								
+
+
+***2024**
+ * **A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part I: Geometry**
+ [[Paper](https://ieeexplore.ieee.org/abstract/document/10682571)]
+
+ * **A Versatile Point Cloud Compressor Using Universal Multiscale Conditional Coding – Part II: Attribute**
+ [[Paper](https://ieeexplore.ieee.org/abstract/document/10682566)]
+
+* **Content-aware Rate Control for Geometry-based Point Cloud Compression**
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10530090)] 
+
+
+* **Volumetric 3D Point Cloud Attribute Compression: Learned polynomial bilateral filter for prediction**
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10445884)]
+
+
+* **Adaptive Entropy Coding of Graph Transform Coefficients for Point Cloud Attribute Compression**
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10402752)]
+
+
+* **Point Cloud Geometry Scalable Coding with a Quality-Conditioned Latents Probability Estimator**
+[[Paper](https://arxiv.org/abs/2404.07698)]
+
+
+* **Efficient and Generic Point Model for Lossless Point Cloud Attribute Compression**
+  [[Paper](https://arxiv.org/abs/2404.06936)]
+ [[Github](https://github.com/I2-Multimedia-Lab/PoLoPCAC)]
+
+  
+  * ** Progressive Coding for Deep Learning based Point Cloud Attribute Compression**
+   [[Paper](https://dl.acm.org/doi/abs/10.1145/3652212.3652217)]
+
+  
+  * **Multi-Space Point Geometry Compression with Progressive Relation-Aware Transformer**
+   [[Paper](https://ieeexplore.ieee.org/abstract/document/10487884)]
+
+
+* **Efficient Point Cloud Attribute Compression Using Rich Parallelizable Context Model**
+ [[Paper](https://ieeexplore.ieee.org/abstract/document/10448389)]
+
+
+* **Efficient Point Cloud Attribute Compression Framework using Attribute-Guided Graph Fourier Transform**
+ [[Paper](https://ieeexplore.ieee.org/abstract/document/10445988)]
+
+
+
+* **ScanPCGC: Learning-Based Lossless Point Cloud Geometry Compression using Sequential Slice Representation Encoding Auxiliary Information to Restore Compressed Point Cloud Geometry**
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10447944)]
+
+
+
+* **Point cloud geometry compression with sparse cascaded residuals and sparse attention**
+[[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/ell2.13139)]
+
+
+* **NeRI: Implicit Neural Representation of LiDAR Point Cloud Using Range Image Sequence**
+ [[Paper](https://ieeexplore.ieee.org/document/10446596)]
+ [[Github](https://github.com/RuixiangXue/NeRI)]
+
+  
+* **Learning to Restore Compressed Point Cloud Attribute: A Fully Data-Driven Approach and A Rules-Unrolling-Based Optimization**
+[[Paper](https://ieeexplore.ieee.org/document/10470357)]
+
+
+
+
+ 
 # Image and Video based Point Cloud Compression
 
 * **Point cloud compression for 3d lidar sensor using recurrent neural network with residual blocks**
