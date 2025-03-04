@@ -12,6 +12,15 @@ Paper list for 3D Data Compression Paper and Applications
 
 # Point Cloud Compression
 
+* **Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction**,
+[https://arxiv.org/pdf/2408.00599]
+[https://github.com/mic-rud/Learned-Compression-of-Point-Cloud-Geometry-and-Attributes]
+
+* **Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction**,
+[Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence]
+[https://github.com/I2-Multimedia-Lab/Pointsoup]
+[https://arxiv.org/abs/2404.13550]
+
 * **Physics-Driven Autoregressive State Space Models for Medical Image Reconstruction**, 
   Bilal Kabas, Fuat Arslan, Valiyeh A. Nezhad, Saban Ozturk, Emine U. Saritas, Tolga Çukur
   [[Paper](https://arxiv.org/abs/2412.09331)]
@@ -24,21 +33,26 @@ Paper list for 3D Data Compression Paper and Applications
   [[GitHub](https://github.com/mauriceqch/pcc_attr_folding)]
 
 * **Deep autoencoder-based lossy geometry compression for point clouds** 
-[Wei Yan, Yiting Shao, Shan Liu, Thomas H. Li, Zhu Li, and Ge Li]
-	
+[[Author](Wei Yan, Yiting Shao, Shan Liu, Thomas H. Li, Zhu Li, and Ge Li)]
+[[GitHub](https://github.com/YanWei123/Deep-AutoEncoder-based-Lossy-Geometry-Compression-for-Point-Clouds)]
+ 
 * **3d point cloud geometry compression on deep learning**
 [Proceedings of the 27th ACM International Conference on Multimedia]
+[[Author](Tianxin Huang, Yong Liu)]
 
 * **MuSCLE: Multi Sweep Compression of LiDAR using Deep Entropy Models**
 [Biswas S, Liu J, Wong K, et al.]
+[Advances in Neural Information Processing Systems]
 [arXiv preprint arXiv:2011.07590, 2020]
-	 
+
+  
 * **Octsqueeze: Octreestructured entropy model for lidar compression**
 [Lila Huang, Shenlong Wang, Kelvin Wong, Jerry Liu, and Raquel Urtasun]
 [In IEEE Conference on Computer Vision and Pattern Recognition]
 
 * **Learning convolutional transforms for lossy point cloud geometry compression**	
 [Maurice Quach, Giuseppe Valenzise, and Frederic Dufaux]
+[2019 IEEE international conference on image processing (ICIP)]
 
 * **Lossy geometry compression of 3d point cloud data via an adaptive octree-guided network**
 [Wen X, Wang X, Hou J, et al.]
@@ -67,6 +81,7 @@ Paper list for 3D Data Compression Paper and Applications
 * **Learned point cloud geometry compression**
  [Jianqiang Wang, Hao Zhu, Zhan Ma, Tong Chen, Haojie Liu, and Qiu Shen]
  [arXiv preprint arXiv:1909.12037, 2019]
+ 
 
 * **DeepCompress: Efficient Point Cloud Geometry Compression**
  [Killea R, Li Y, Bastani S, et al]
