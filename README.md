@@ -17,11 +17,11 @@ Paper list for 3D Data Compression Paper and Applications
   [[Paper](https://arxiv.org/abs/2412.09331)]
   [[GitHub](https://github.com/icon-lab/MambaRoll)]
 
-* **LPD-AE: Latent Space Representation of Large-Scale 3D Point Cloud**,
 
 * **Folding-based compression of point cloud attributes** 
   [IEEE International Conference on Image Processing (ICIP)]
-  [(http://arxiv.org/abs/2002.04439)]	
+  [[Paper](http://arxiv.org/abs/2002.04439)]
+  [[GitHub](https://github.com/mauriceqch/pcc_attr_folding)]
 
 * **Deep autoencoder-based lossy geometry compression for point clouds** 
 [Wei Yan, Yiting Shao, Shan Liu, Thomas H. Li, Zhu Li, and Ge Li]
